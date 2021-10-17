@@ -1,0 +1,2 @@
+<h1>Objetivo</h1>
+<p>Estudar o comportamento da classe <em>Scanner</em> e como o mesmo se comporta. E também mostrar a necessidade de um nextLine() após um comando diferente do mesmo para que o programa execute da forma esperada</p>
